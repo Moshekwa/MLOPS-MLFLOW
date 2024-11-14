@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
     # Read the wine-quality csv file from local
     data = pd.read_csv("red-wine-quality.csv")
-    data.to_csv("data/red-wine-quality.csv", index=False)
+    #data.to_csv("data/red-wine-quality.csv", index=False)
 
     # Split the data into training and test sets. (0.75, 0.25) split.
     train, test = train_test_split(data)
