@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mateu/Desktop/MLFlow/MLOPS-MLFLOW/tracking/mlruns/432254850403412292/c73d45402ce54c6a91392b77568b8223/artifacts
+end_time: 1731581220541
+entry_point_name: ''
+experiment_id: '432254850403412292'
+lifecycle_stage: active
+run_id: c73d45402ce54c6a91392b77568b8223
+run_name: adaptable-moth-176
+run_uuid: c73d45402ce54c6a91392b77568b8223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731581218061
+status: 3
+tags: []
+user_id: mateu

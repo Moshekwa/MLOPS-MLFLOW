@@ -15,8 +15,8 @@ logger = logging.getLogger(__name__)
 
 # get arguments from command
 parser = argparse.ArgumentParser()
-parser.add_argument("--alpha", type=float, required=False, default=0.7)
-parser.add_argument("--l1_ratio", type=float, required=False, default=0.7)
+parser.add_argument("--alpha", type=float, required=False, default=0.9)
+parser.add_argument("--l1_ratio", type=float, required=False, default=0.9)
 args = parser.parse_args()
 
 # evaluation function
@@ -68,4 +68,4 @@ if __name__ == "__main__":
         mlflow.log_metric("rmse", rmse) 
         mlflow.log_metric("r2", r2) 
         mlflow.log_metric("mae", mae) 
-        mlflow.sklearn.log_model(lr, "mymodel") 
+        mlflow.sklearn.log_model(lr, "mymodel") # Logging the model artefacts, ML Flow Artifact

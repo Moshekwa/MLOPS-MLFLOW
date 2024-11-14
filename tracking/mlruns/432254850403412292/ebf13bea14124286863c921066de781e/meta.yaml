@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mateu/Desktop/MLFlow/MLOPS-MLFLOW/tracking/mlruns/432254850403412292/ebf13bea14124286863c921066de781e/artifacts
+end_time: 1731581015115
+entry_point_name: ''
+experiment_id: '432254850403412292'
+lifecycle_stage: active
+run_id: ebf13bea14124286863c921066de781e
+run_name: resilient-perch-75
+run_uuid: ebf13bea14124286863c921066de781e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731581012877
+status: 3
+tags: []
+user_id: mateu

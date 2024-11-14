@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mateu/Desktop/MLFlow/MLOPS-MLFLOW/tracking/mlruns/432254850403412292/cb3ecbe41fbe4d2786b3035775edaf16/artifacts
+end_time: 1731580944887
+entry_point_name: ''
+experiment_id: '432254850403412292'
+lifecycle_stage: active
+run_id: cb3ecbe41fbe4d2786b3035775edaf16
+run_name: calm-fawn-582
+run_uuid: cb3ecbe41fbe4d2786b3035775edaf16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731580942515
+status: 3
+tags: []
+user_id: mateu
