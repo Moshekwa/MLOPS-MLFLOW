@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mateu/Desktop/MLFlow/MLOPS-MLFLOW/tracking/mlruns/432254850403412292/a3dd46921b4049d390ba31f7ee1934ac/artifacts
+end_time: 1731580772936
+entry_point_name: ''
+experiment_id: '432254850403412292'
+lifecycle_stage: active
+run_id: a3dd46921b4049d390ba31f7ee1934ac
+run_name: thoughtful-ant-965
+run_uuid: a3dd46921b4049d390ba31f7ee1934ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731580770654
+status: 3
+tags: []
+user_id: mateu
